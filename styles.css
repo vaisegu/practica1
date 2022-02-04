@@ -1,0 +1,297 @@
+body {
+	background-color: black;
+}
+
+.contenedor {
+	width: 750px;
+	margin: 0 auto;
+	padding-right: 5px;
+	border: 5px solid rgb(220, 221, 216);
+}
+
+.contenedor2 {
+	width: 750px;
+	margin: 0 auto;
+	border: 2px solid black;
+}
+
+.fila {
+	padding: left;
+	background-color: rgb(94, 158, 160);
+}
+.fila p {
+	margin: 0;
+}
+.fila2 {
+	background-color: rgb(243, 228, 147);
+	padding: 6px;
+}
+.fila2 p {
+	margin: 0;
+	padding-left: 3px;
+	border: 1px solid red;
+	width: 160px;
+	background-color: rgb(254, 214, 2);
+}
+.fila3 {
+	background-color: rgb(173, 217, 230);
+	padding: 6px;
+	height: 23px;
+}
+.fila3 p {
+	margin: 0;
+	padding-left: 3px;
+	border: 1px solid red;
+	background-color: rgb(254, 214, 2);
+	width: 160px;
+	float: left;
+	margin-right: 15px;
+}
+.margen {
+	padding-right: 100px;
+}
+
+.fila4 {
+	background-color: rgb(173, 217, 230);
+	padding: 6px;
+	height: 23px;
+	border: 1px solid;
+}
+.fila4 p {
+	margin: 0;
+	padding-left: 3px;
+	border: 1px solid red;
+	background-color: rgb(254, 214, 2);
+	width: 100px;
+	float: left;
+	margin-right: 15px;
+}
+.fila5 {
+	background-color: rgb(173, 217, 230);
+	padding: 6px;
+	height: 23px;
+	border-bottom: 1px solid black;
+}
+.fila5 p {
+	margin: 0;
+	padding-left: 3px;
+	border-bottom: 1px solid red;
+	background-color: rgb(254, 214, 2);
+	width: 45px;
+	float: left;
+	margin-right: 15px;
+}
+.uno {
+	padding-right: 20px;
+}
+.dos {
+	padding-right: 50px;
+}
+.tres {
+	padding-right: 70px;
+}
+.fila6 {
+	background-color: rgb(119, 136, 152);
+	height: 35px;
+}
+.fila7 {
+	background-color: rgb(230, 232, 69);
+	padding: 6px;
+	height: 23px;
+	border: 2px solid white;
+}
+.fila7 p {
+	margin: 0;
+	padding-left: 3px;
+	border: 1px solid red;
+	background-color: rgb(254, 214, 2);
+	width: 160px;
+	float: right;
+	margin-right: 15px;
+}
+.fila8 {
+	background-color: rgb(162, 250, 166);
+	padding: 6px;
+	height: 23px;
+	border: 2px solid white;
+}
+.fila8 p {
+	margin: 0;
+	padding-left: 3px;
+	border: 1px solid red;
+	background-color: rgb(254, 214, 2);
+	width: 160px;
+	float: right;
+	margin-right: 15px;
+}
+.fila9 {
+	background-color: rgb(218, 178, 241);
+	padding: 6px;
+	height: 23px;
+	border: 2px solid white;
+}
+.fila9 p {
+	margin: 0;
+	padding-left: 3px;
+	border: 1px solid red;
+	background-color: rgb(254, 214, 2);
+	width: 160px;
+	float: right;
+	margin-right: 15px;
+}
+.fila10 {
+	background-color: rgb(162, 250, 166);
+	padding: 6px;
+	height: 23px;
+	border: 2px solid white;
+}
+.fila10 p {
+	margin: 0;
+	padding-left: 3px;
+	border: 1px solid red;
+	background-color: rgb(254, 214, 2);
+	width: 160px;
+	margin-right: 15px;
+}
+.izq {
+	float: left;
+}
+.der {
+	float: right;
+}
+.fila14 {
+	background-color: rgb(101, 205, 170);
+	padding: 6px;
+	height: 23px;
+	border: 2px solid white;
+	display: flex;
+	justify-content: center;
+}
+.fila14 p {
+	margin: 0;
+	padding-left: 3px;
+	width: 160px;
+	background-color: white;
+	text-align: center;
+	padding-right: 40px;
+	padding-left: 40px;
+}
+.fila15 {
+	background-color: rgb(138, 225, 235);
+	padding: 6px;
+	height: 23px;
+	border: 2px solid white;
+	text-align: center;
+	word-spacing: 50px;
+}
+.fila15 p {
+	border: 1px solid;
+	margin: 0;
+	padding-left: 3px;
+	width: 160px;
+	background-color: rgb(1, 255, 255);
+	text-align: center;
+	padding-right: 40px;
+	padding-left: 40px;
+	display: inline-block;
+}
+.fila16 {
+	background-color: rgb(138, 225, 235);
+	padding: 6px;
+	height: 23px;
+	border: 2px solid white;
+	text-align: center;
+	word-spacing: 50px;
+}
+.fila16 p {
+	border: 1px solid;
+	margin: 0;
+	padding-left: 3px;
+	width: 100px;
+	background-color: rgb(1, 255, 255);
+	text-align: center;
+	padding-right: 40px;
+	padding-left: 40px;
+	display: inline-block;
+}
+.fila17 {
+	border: 2px solid white;
+	background-color: rgb(94, 158, 160);
+	padding: 6px;
+}
+.fila17 p {
+	margin: 0;
+	padding-left: 3px;
+	border: 1px solid white;
+	background-color: rgb(183, 135, 9);
+	margin-top: 3px;
+}
+.fila18 {
+	border: 2px solid white;
+	background-color: rgb(94, 158, 160);
+	padding: 6px;
+	height: 50px;
+}
+.fila18_2 {
+	background-color: rgb(43, 166, 199);
+	border: 1px solid white;
+	margin: 0;
+	height: 50px;
+	width: 450px;
+}
+.fila18_2 p {
+	margin: 0;
+	padding-left: 3px;
+	border: 1px solid white;
+	background-color: rgb(183, 135, 9);
+	margin-top: 3px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.fila19 {
+	border: 2px solid white;
+	background-color: rgb(94, 158, 160);
+	padding: 6px;
+	height: 50px;
+}
+.fila19_2 {
+	background-color: rgb(40, 162, 213);
+	border: 1px solid white;
+	margin: auto;
+	height: 50px;
+	width: 450px;
+	float: right;
+}
+.fila19_2 p {
+	margin: 0;
+	padding-left: 3px;
+	border: 1px solid white;
+	background-color: rgb(183, 135, 9);
+	margin-top: 3px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.fila20 {
+	border: 2px solid white;
+	background-color: rgb(0, 0, 0);
+	padding: 6px;
+	height: 75px;
+	margin: 0 auto;
+	border: white solid 1px;
+}
+.fila20 p {
+	margin: 0;
+	padding-left: 3px;
+	border: 1px solid white;
+	background-color: rgb(189, 183, 107);
+	margin-top: 3px;
+	height: 70px;
+}
+.size {
+	width: 33%;
+	float: left;
+}
+.size2 {
+	width: 62%;
+	float: right;
+}
